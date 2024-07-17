@@ -1,4 +1,4 @@
-package com.driver.Main;
+package com.driver;
 
 public class A {
     public String meth() {
